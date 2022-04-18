@@ -132,7 +132,7 @@ public class Appinstall
 	   		    
 	   		    dr.findElement(By.xpath("//android.widget.TextView[@text='CASH']")).click();
 	   		    
-	   		    
+	   		    //Code changes ss
 	   		    
 		}
 
